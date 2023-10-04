@@ -1,0 +1,26 @@
+.projectHeading {
+  text-align: center;
+}
+
+.projectContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.projectItem {
+  margin: 10px;
+}
+
+img {
+  max-width: 500px; 
+  height: 350px;
+  transition: transform 0.3s ease; 
+}
+
+img:hover {
+  transform: scale(1.1); 
+}
+
+
+

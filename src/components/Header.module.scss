@@ -1,0 +1,27 @@
+.header {
+  background-color: rgb(184, 183, 240);
+  padding: 20px; /* Add some padding for spacing */
+  height: 30px;
+}
+
+.navList {
+  list-style-type: none; /* Remove bullets */
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.navItem {
+  margin: -10px 15px 0; 
+}
+
+.navLink {
+  text-decoration: none; 
+  color: rgb(13, 17, 48);
+  font-size: 18px; 
+  font-weight: bold; 
+}
+
+.navLink:hover {
+  text-decoration: underline; 
+}

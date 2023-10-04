@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+
+$primary-color: rgb(13, 17, 48);
+$secondary-color: rgb(13, 17, 48);
+$background-color: rgb(255, 255, 255);
+
+
+body {
+  color: $secondary-color;
+  background-color: $background-color;
+  font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $primary-color;
+}
+
+button {
+  background-color: $primary-color;
+  color: white;
+}
+
+button:hover {
+  background-color: darken($primary-color, 10%);
+}
+
