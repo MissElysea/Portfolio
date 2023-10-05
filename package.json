@@ -14,7 +14,7 @@
     "sass": "^1.68.0",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://misselysea.github.io/elysea-portfolio",
+  "homepage": "https://misselysea.github.io/about",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
