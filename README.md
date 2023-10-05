@@ -15,7 +15,7 @@ SCSS for styling and layout.
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/MissElysea/portfolio
 ```
 
 ## Navigate to the project directory:
