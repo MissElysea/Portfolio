@@ -38,7 +38,7 @@ To start the development server and view the portfolio:
 npm start
 ```
 
-The portfolio will be accessible at https://misselysea.github.io/about.
+The portfolio will be accessible at http://localhost:3000.
 
 ## Adding Projects
 
